@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Intertwine.Worker/Intertwine.Worker.csproj" />
+  <Project Path="../Intertwine/Intertwine.Domain/Intertwine.Domain.csproj" />
+  <Project Path="../Intertwine/Intertwine.Identity/Intertwine.Identity.csproj" />
+  <Project Path="../Intertwine/Intertwine.Services/Intertwine.Services.csproj" />
+  <Project Path="../Intertwine/Intertwine.Repositories/Intertwine.Repositories.csproj" />
+  <Project Path="../Intertwine/Intertwine.UnitTests/Intertwine.UnitTests.csproj" />
+  <Project Path="Intertwine.Worker.Tests/Intertwine.Worker.Tests.csproj" />
+</Solution>
